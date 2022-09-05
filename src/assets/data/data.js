@@ -19,7 +19,7 @@ export const NFT__DATA = [
   {
     id: "01",
     title: "Travel Monkey Club",
-    desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam adipisci cupiditate officia, nostrum et deleniti vero corrupti facilis minima laborum nesciunt nulla error natus saepe illum quasi ratione suscipit tempore dolores. Recusandae, similique modi voluptates dolore repellat eum earum sint.",
+    desc: "300 hip and fashionable monkey NFTs make up Travel Money Club ("TMC"). These monkeys are so enamoured with comic books and movies that they fantasise about visiting these worlds every day. Each monkey is distinct and has a variety of characteristics. Owners of Travel Monkeys get exclusive access to the TMC metaverse and a range of restricted events. Background: Cinereous The adjective bored Walnut-colored fur Unknown colour of hair 90 Power Level.",
     imgUrl: img01,
     creator: "Trista Francis",
     creatorImg: ava01,
