@@ -110,7 +110,7 @@ export const NFT__DATA = [
 export const SELLER__DATA = [
   {
     id: "01",
-    desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam adipisci cupiditate officia",
+    desc: "ipsum dolor sit amet, consectetur adipisicing elit. Veniam adipisci cupiditate officia",
     sellerName: "Ryan Carder",
     sellerImg: ava01,
     currentBid: 5.89,
